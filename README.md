@@ -41,7 +41,7 @@ Descompriman en la carpeta que más les guste, pero tengan en cuenta que esta se
 
 ## Preparación de credenciales
 
-Lo primero que necesitamos son nuestras credenciales que ya persisten en la propia plataforma. Vamos a la página de fichaje de Woffu y damos clic derecho sobre la pantalla. En el menú seleccionamos "Inspeccionar".
+Lo primero que necesitamos son nuestras credenciales que ya persisten en la propia plataforma, vamos a la página de fichaje de Woffu y damos clic derecho sobre la pantalla. En el menú seleccionamos "Inspeccionar".
 
 ![Imagen 4](https://github.com/HGMENA-WORKSPACE/woffu/blob/master/00003.png?raw=true)
 
@@ -63,7 +63,9 @@ Y vamos reemplazando en el fichero `sign.ps1`.
 
 ## Creación de Tareas
 
-Para que el script se ejecute los días que queremos, debemos programarlo en Windows. Buscamos la aplicación de tareas de Windows.
+Para que el script se ejecute los días que queremos, debemos programarlo en Windows.
+
+Buscamos la aplicación de tareas de Windows.
 
 ![Imagen 9](https://github.com/HGMENA-WORKSPACE/woffu/blob/master/00008.png?raw=true)
 
@@ -71,7 +73,7 @@ Y abrimos la aplicación.
 
 ![Imagen 10](https://github.com/HGMENA-WORKSPACE/woffu/blob/master/00009.png?raw=true)
 
-Si saben crear las tareas, háganlo ustedes mismos. De lo contrario, las importamos del proyecto descargado. Vamos a "Importar tareas".
+Si saben crear las tareas, háganlo ustedes mismos. De lo contrario, las importamos del proyecto descargado desde "Importar tareas".
 
 ![Imagen 11](https://github.com/HGMENA-WORKSPACE/woffu/blob/master/00010.png?raw=true)
 
