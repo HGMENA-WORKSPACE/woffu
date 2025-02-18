@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File "Register-ScheduledTask.ps1"
